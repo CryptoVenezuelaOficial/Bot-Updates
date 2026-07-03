@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.1.1/BotTesoro.exe",
-  "notas": "Arreglo de licencia inestable y rutas de archivos con Nuitka"
+  "version": "2.1.2",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.1.2/BotTesoro.exe",
+  "notas": "Soporte para pantalla de 2FA autenticador"
 }
