@@ -1,5 +1,5 @@
 {
-  "version": "1.9.5",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v1.9.5/BotTesoro.exe",
-  "notas": "Alertas de Telegram tambien para Tesoro"
+  "version": "2.0.0",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.0.0/BotTesoro.exe",
+  "notas": "Soporte para 2FA/TOTP, login sin esperar SMS"
 }
