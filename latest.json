@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.0.0/BotTesoro.exe",
-  "notas": "Soporte para 2FA/TOTP, login sin esperar SMS"
+  "version": "2.1.1",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.1.1/BotTesoro.exe",
+  "notas": "Arreglo de licencia inestable y rutas de archivos con Nuitka"
 }
