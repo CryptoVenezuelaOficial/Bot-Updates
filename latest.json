@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.2.1/BotTesoro.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.2.1/BotTesoro.exe",
-  "notas": "Botones con esquinas redondeadas"
+  "version": "2.4.2",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.4.2/BotTesoro.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v2.4.2/BotTesoro.exe",
+  "notas": "Arreglo critico de Chrome, mejoras de velocidad, y compatibilidad con versiones viejas del actualizador"
 }
