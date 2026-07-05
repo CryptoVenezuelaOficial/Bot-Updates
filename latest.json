@@ -1,6 +1,6 @@
 {
-  "version": "4.1.0",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v4.1.0/IntervenBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v4.1.0/IntervenBot.exe",
-  "notas": "Interfaz nueva con CustomTkinter, renombrado a IntervenBot"
+  "version": "5.1.0",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.1.0/IntervenBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.1.0/IntervenBot.exe",
+  "notas": "Icono nuevo y guia de activacion de 2FA para Bancamiga"
 }
