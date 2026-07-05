@@ -1,6 +1,6 @@
 {
-  "version": "5.1.0",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.1.0/IntervenBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.1.0/IntervenBot.exe",
-  "notas": "Icono nuevo y guia de activacion de 2FA para Bancamiga"
+  "version": "5.4.1",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.4.1/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.4.1/CVZBot.exe",
+  "notas": "Arreglo critico: el bot no abria por el logo nuevo"
 }
