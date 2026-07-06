@@ -1,6 +1,6 @@
 {
-  "version": "5.4.1",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.4.1/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.4.1/CVZBot.exe",
-  "notas": "Arreglo critico: el bot no abria por el logo nuevo"
+  "version": "5.5.1",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.1/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.1/CVZBot.exe",
+  "notas": "Fix: monto de la orden en Bancamiga (campo con mascara), seleccion de cuenta por saldo disponible, y bot de Mercantil completo"
 }
