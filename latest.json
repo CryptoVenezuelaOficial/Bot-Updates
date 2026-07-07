@@ -1,6 +1,6 @@
 {
-  "version": "5.5.1",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.1/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.1/CVZBot.exe",
-  "notas": "Fix: monto de la orden en Bancamiga (campo con mascara), seleccion de cuenta por saldo disponible, y bot de Mercantil completo"
+  "version": "5.5.2",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.2/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.2/CVZBot.exe",
+  "notas": "Fix: monto de orden en Bancamiga (mascara) y seleccion automatica de cuenta con mas saldo"
 }
