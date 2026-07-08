@@ -1,6 +1,6 @@
 {
-  "version": "5.5.2",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.2/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.2/CVZBot.exe",
-  "notas": "Fix: monto de orden en Bancamiga (mascara) y seleccion automatica de cuenta con mas saldo"
+  "version": "5.5.3",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.3/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.3/CVZBot.exe",
+  "notas": "Fix critico: Tesoro se colgaba al colocar la orden (input de consola imposible en el exe). Los 3 bancos ahora colocan la orden automaticamente."
 }
