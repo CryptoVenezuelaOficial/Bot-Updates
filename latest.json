@@ -1,6 +1,6 @@
 {
-  "version": "5.5.3",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.3/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.3/CVZBot.exe",
-  "notas": "Fix critico: Tesoro se colgaba al colocar la orden (input de consola imposible en el exe). Los 3 bancos ahora colocan la orden automaticamente."
+  "version": "5.5.5",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.5/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.5/CVZBot.exe",
+  "notas": "Fix critico: perfiles de Chrome compartidos entre cuentas del mismo banco, rompia el multicuenta (Tesoro/Bancamiga/Mercantil)"
 }
