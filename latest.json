@@ -1,6 +1,6 @@
 {
-  "version": "5.5.5",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.5/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.5.5/CVZBot.exe",
-  "notas": "Fix critico: perfiles de Chrome compartidos entre cuentas del mismo banco, rompia el multicuenta (Tesoro/Bancamiga/Mercantil)"
+  "version": "5.6.0",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.0/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.0/CVZBot.exe",
+  "notas": "Nuevo: dialogo de confirmacion Si/No antes de colocar la orden en los 3 bancos"
 }
