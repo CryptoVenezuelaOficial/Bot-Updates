@@ -1,6 +1,6 @@
 {
-  "version": "5.6.0",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.0/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.0/CVZBot.exe",
-  "notas": "Nuevo: dialogo de confirmacion Si/No antes de colocar la orden en los 3 bancos"
+  "version": "5.6.2",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.2/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.2/CVZBot.exe",
+  "notas": "Fix critico: Chrome quedaba zombie en Tesoro, dialogo de confirmacion antes de colocar orden en los 3 bancos, y ajustes de compilacion"
 }
