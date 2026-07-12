@@ -1,6 +1,6 @@
 {
-  "version": "5.6.2",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.2/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.2/CVZBot.exe",
-  "notas": "Fix critico: Chrome quedaba zombie en Tesoro, dialogo de confirmacion antes de colocar orden en los 3 bancos, y ajustes de compilacion"
+  "version": "5.6.3",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.3/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.3/CVZBot.exe",
+  "notas": "Fix: error de certificados SSL al revisar actualizaciones en PCs con Windows desactualizado"
 }
