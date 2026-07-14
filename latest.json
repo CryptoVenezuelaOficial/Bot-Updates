@@ -1,6 +1,6 @@
 {
-  "version": "5.6.6",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.6/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.6/CVZBot.exe",
-  "notas": "Nuevo: reinicio automatico del navegador si Chrome se cae durante esperas largas (hasta 3 intentos)"
+  "version": "5.6.11",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.11/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.11/CVZBot.exe",
+  "notas": "Nuevo: checkbox en la interfaz para activar/desactivar la confirmacion antes de colocar la orden"
 }
