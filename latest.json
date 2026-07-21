@@ -1,6 +1,6 @@
 {
-  "version": "5.6.11",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.11/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.6.11/CVZBot.exe",
-  "notas": "Nuevo: checkbox en la interfaz para activar/desactivar la confirmacion antes de colocar la orden"
+  "version": "5.7.2",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.2/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.2/CVZBot.exe",
+  "notas": "Tesoro ahora detecta sesion ya activa (ej. tras reinicio automatico del navegador) y no repite el login innecesariamente"
 }
