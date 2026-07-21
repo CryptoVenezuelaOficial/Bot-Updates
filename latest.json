@@ -1,6 +1,6 @@
 {
-  "version": "5.7.2",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.2/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.2/CVZBot.exe",
-  "notas": "Tesoro ahora detecta sesion ya activa (ej. tras reinicio automatico del navegador) y no repite el login innecesariamente"
+  "version": "5.7.3",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.3/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.3/CVZBot.exe",
+  "notas": "Fix: manejo del aviso 'Usted posee una sesion activa' que bloqueaba el login tras un reinicio del navegador"
 }
