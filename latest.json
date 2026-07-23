@@ -1,6 +1,6 @@
 {
-  "version": "5.7.4",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.4/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.4/CVZBot.exe",
-  "notas": "Fix: Bancamiga reintenta si Intervencion Digital tarda en confirmar (no solo en sesion caida); mas tiempo de espera entre reintentos de abrir Chrome"
+  "version": "5.8.2",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.8.2/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.8.2/CVZBot.exe",
+  "notas": "Fix: el log ahora muestra Firefox correctamente en vez de Chrome fijo; mas ajustes para que Firefox consuma menos recursos"
 }
