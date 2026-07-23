@@ -1,6 +1,6 @@
 {
-  "version": "5.7.3",
-  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.3/CVZBot.exe",
-  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.3/CVZBot.exe",
-  "notas": "Fix: manejo del aviso 'Usted posee una sesion activa' que bloqueaba el login tras un reinicio del navegador"
+  "version": "5.7.4",
+  "url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.4/CVZBot.exe",
+  "asset_url": "https://github.com/CryptoVenezuelaOficial/Bot-Updates/releases/download/v5.7.4/CVZBot.exe",
+  "notas": "Fix: Bancamiga reintenta si Intervencion Digital tarda en confirmar (no solo en sesion caida); mas tiempo de espera entre reintentos de abrir Chrome"
 }
